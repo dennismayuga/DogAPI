@@ -66,5 +66,3 @@ http://localhost:8080/dog/chihuahua
 http://localhost:8080/dog/frankie
 http://localhost:8080/dog/bobers
 http://localhost:8080/dog/jimmin
-
-
